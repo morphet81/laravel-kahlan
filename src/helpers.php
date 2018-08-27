@@ -1,7 +1,7 @@
 <?php
 
-use App\Kahlan\Env;
-use App\Kahlan\Laravel;
+use Kahlan\Suite;
+use Sofa\LaravelKahlan\Env;
 
 /*
 |--------------------------------------------------------------------------
